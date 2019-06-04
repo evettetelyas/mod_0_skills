@@ -11,29 +11,29 @@
     * complete session_6
   * complete capstone
      * complete day_0
-      * set up computer
-      * set up SSH keys
+        * set up computer
+        * set up SSH keys
      * complete day_1
-      * research strings and numbers
-      * edit, create and commit new work to github
+        * research strings and numbers
+        * edit, create and commit new work to github
      * complete day_2
-      * research arrays and iteration
-      * edit, create and commit new work to github
+        * research arrays and iteration
+        * edit, create and commit new work to github
      * complete day_3
-      * research if statements and loops
-      * edit, create and commit new work to github
+        * research if statements and loops
+        * edit, create and commit new work to github
      * complete day_4
-      * research methods and return values
-      * edit, create and commit new work to github
+        * research methods and return values
+        * edit, create and commit new work to github
      * complete day_5
-      * research hashes
-      * edit, create and commit new work to github
+        * research hashes
+        * edit, create and commit new work to github
      * complete day_6
-      * research classes
-      * edit, create and commit new work to github
+        * research classes
+        * edit, create and commit new work to github
      * complete day_7
-      * build a thing!
-      * edit, create and commit new work to github
+        * build a thing!
+        * edit, create and commit new work to github
      * complete gear up assignment
      * complete professional development assignment
      * submit capstone project
